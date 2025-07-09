@@ -3,7 +3,3 @@ function Home() {
 }
 
 export default Home;
-
-function Teste() {
-  return <h1>nada</h1>;
-}
